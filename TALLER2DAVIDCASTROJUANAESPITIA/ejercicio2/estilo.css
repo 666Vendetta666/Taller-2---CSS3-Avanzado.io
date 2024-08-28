@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    grid-gap: 7px;
+    background-color: rgb(103, 191, 231);
+    justify-content: center;
+}
+.contenido{ 
+background-color: pink;
+height: 400px;
+}
+footer{
+    display: flex;
+    grid-gap: 7px;
+    background-color: rgb(123, 230, 123);
+    justify-content: center;
+}
+.container{
+    display: grid;
+    gap: 8px;
+ } 
